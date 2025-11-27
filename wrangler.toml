@@ -1,0 +1,8 @@
+# wrangler.toml - simple config for Cloudflare Workers
+name = "austrialiebe-proxy"
+main = "worker.js"
+compatibility_date = "2025-11-26"
+# account_id = "<DEIN_CLOUDFLARE_ACCOUNT_ID>"   # optional in repo; set when publishing
+# workers_dev = true
+# route = ""  # optional: set for custom domain
+
